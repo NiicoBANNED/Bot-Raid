@@ -1,6 +1,8 @@
 Copyright (c) 2021, NiicoBANNED
 All rights reserved.
 
+This bot was only made to learn Discord.js
+
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 

@@ -80,7 +80,7 @@ client.on('message', msg => {
       const helpEmbed = new Discord.RichEmbed()
       .setColor('#0099ff')
       .setTitle('Bot Raid')
-      .setURL('https://discord.gg/NsS2BrWEfG')
+      .setURL('https://discord.gg/3ChgmK7M')
       .setDescription('Here you have all the bot commands')
       .setThumbnail('')
       .addField("The CEO of this bot is not responsible for what you do with the bot (use it at your own risk).')
@@ -90,14 +90,14 @@ client.on('message', msg => {
         .addField('Function', '\nShows this list\nDeletes all channels\n/delets all roles\nCreates 50 channels the with {name}\nSpams the channel sent in\nSpams all the channels)
       //.setImage('')
       .setTimestamp()
-        .setFooter('Made by ! Niko#2634');
+        .setFooter('Made by ! NNiko#6078');
 
       msg.channel.send(helpEmbed);
         */
         const embed = {
             "title": ":cyclone: Bot Raid Help :cyclone:",
             "description": "The Bot raid, was made to raid servers (use it at your own risk.).\nThe CEO of this bot is not responsible for what you do with the bot!",
-            "url": "https://discord.gg/NsS2BrWEfG",
+            "url": "https://discord.gg/3ChgmK7M",
             "color": 515151,
             "timestamp": "2020-04-10T08:55:46.190Z",
             "footer": {
@@ -111,7 +111,7 @@ client.on('message', msg => {
                 "url": "https://i.pinimg.com/originals/dc/ae/08/dcae08465ab3c19af6f1ecd10c725b6b.jpg"
             },
             "author": {
-                "name": "Bot made by ! Niko#2634",
+                "name": "Bot made by ! NNiko#6078",
                 "url": "https://github.com/NiicoBANNED",
                 "icon_url": "https://cdn.discordapp.com/avatars/746303742793744436/ad811848136f0d02271437eaa46b14cb.png?size=128"
             },

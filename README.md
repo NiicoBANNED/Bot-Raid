@@ -1,7 +1,4 @@
-Copyright (c) 2021, NiicoBANNED
-All rights reserved.
-
-This bot was only made to learn Discord.js
+# This bot was only made to learn Discord.js
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
@@ -16,3 +13,6 @@ modification, are permitted provided that the following conditions are met:
 3. Neither the name of the copyright holder nor the names of its
    contributors may be used to endorse or promote products derived from
    this software without specific prior written permission.
+   
+   
+   ---------------- Copyright (c) 2021, NiicoBANNED All rights reserved. ----------------
